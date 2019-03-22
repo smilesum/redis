@@ -1,3 +1,4 @@
+http://blog.huangz.me/diary/2014/how-to-read-redis-source-code.html
 第一阶段
 阅读Redis的数据结构部分，基本位于如下文件中： 
 + 内存分配 zmalloc.c和zmalloc.h 
